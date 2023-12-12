@@ -45,7 +45,12 @@ The main content of each file is marked as follows:
 If you find our paper useful or use the code available in this repository in your research, please consider citing our work:
 
 ```
-
+@article{wang2023improved,
+  title={An Improved Masking Strategy for Self-supervised Masked Reconstruction in Human Activity Recognition},
+  author={Wang, Jinqiang and Zhu, Tao and Ning, Huansheng},
+  journal={arXiv preprint arXiv:2312.04147},
+  year={2023}
+}
 ```
 
 ## Reference
